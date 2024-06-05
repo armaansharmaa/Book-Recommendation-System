@@ -125,7 +125,7 @@ streamlit run app.py
 
 
 ```bash
-Author: ARAAN SHARMA
+Author: ARMAAN SHARMA
 Data Scientist
 Email: armaan.sh03@gmail.com
 
